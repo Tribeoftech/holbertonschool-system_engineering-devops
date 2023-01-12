@@ -1,2 +1,2 @@
 #!/bin/bash
-file "Hello, World" 
+chmod file "Hello, World" 
