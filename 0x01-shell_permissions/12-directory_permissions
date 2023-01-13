@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod mkdir my_dir 751
+ls -1t | head -10
