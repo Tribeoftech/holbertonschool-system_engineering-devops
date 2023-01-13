@@ -1,2 +1,2 @@
 #!/bin/bash
-d751 DirMk my_dir
+drwxr-x--x DirMk my_dir
