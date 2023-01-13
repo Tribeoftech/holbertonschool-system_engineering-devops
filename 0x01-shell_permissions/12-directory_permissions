@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1t | head -10
+mkdir –m751 DirM0
