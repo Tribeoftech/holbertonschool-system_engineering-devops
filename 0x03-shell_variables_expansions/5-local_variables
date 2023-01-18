@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -type -f local env 
+grep -f" :" local env 
