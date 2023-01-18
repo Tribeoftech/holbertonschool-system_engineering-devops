@@ -1,2 +1,2 @@
 #!/bin/bash
-envBEST="School
+export BEST="School
