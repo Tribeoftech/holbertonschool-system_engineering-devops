@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$PATH" du | sort -type -d
+echo "$PATH" find . -type d -print | wc -l
