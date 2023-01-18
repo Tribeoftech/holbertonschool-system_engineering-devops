@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e awk \action \$PATH
+echo \action \$PATH
