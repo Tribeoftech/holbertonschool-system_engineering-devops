@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+i=0
+while ["$i" <= 10]
+
+do
+
+if (($i % 2 = 0))
+
+then
+
+ echo "Best School"
+    i=$((i=0;i<10;i++))
+done
+
+   
+   
