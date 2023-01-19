@@ -1,7 +1,10 @@
 #!/usr/bin/env bash
-#This script displays "Best School" 10 times.
-while [ "$i" -le 10 ]
+#This script displays "Best School" 10 times
+
+i=0
+
+while [[ "$i" -le 10 ]];
 do
     echo "Best School"
-    i=$((i+1))
+    i=$((i + 1))
 done
