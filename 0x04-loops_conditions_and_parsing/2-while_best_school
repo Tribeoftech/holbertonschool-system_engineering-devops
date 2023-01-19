@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
-#!/usr/bin/env bash
-i=10
-while [ $i -le 10 ]
+count=0
+while [ $count -le 10 ]
 do
-    echo “Best School"
-    i=$((i+1))
+    echo "Best School"
+    count=$((count+1))
 done
