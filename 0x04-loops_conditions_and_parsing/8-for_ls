@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#for loop with contents of directory in list format with no hidden files.
+
+ for manyfiles in *
+do
+	echo "$manyfiles" | cut -d- -f2
+done
