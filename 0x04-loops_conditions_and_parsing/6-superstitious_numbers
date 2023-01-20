@@ -1,7 +1,7 @@
 #!/usr/bin/env bash	
 #This script displays 1 to 20 and 4 bad luck for china 4th iteration, 9 bad luck from japan for 9th loop iteration, 17 bad luck from italy for the 17 loop iteration.
 
-i=0
+i=1
  
  while [ "$i" -le 20 ]
 
