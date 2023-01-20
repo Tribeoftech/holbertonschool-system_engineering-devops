@@ -1,0 +1,21 @@
+#!/usr/bin/env bash	
+#This script displays 1 to 20 and 4 bad luck for china 4th iteration, 9 bad luck from japan for 9th loop iteration, 17 bad luck from italy for the 17 loop iteration.
+
+i=0
+ 
+ while [ "$i" -le 18 ]
+
+  do  
+	 echo "$i"
+	 case "$i" in 
+	 
+	  "4") echo "bad luck from china"
+           ;; 
+          "9") echo "bad luck from japan" 
+           ;;
+          "17") echo "bad luck from italy"
+           ;;
+
+           esac 
+          ((i++))
+done
