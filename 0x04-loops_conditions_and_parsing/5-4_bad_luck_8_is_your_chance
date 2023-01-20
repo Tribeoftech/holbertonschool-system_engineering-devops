@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #This script outputs Best School, badluck 4th, goodluck 8th.
 i=0
- while [ "$i" -le 10 ]
+ while [ "$i" -le 9 ]
  do  if (($i == 3))
      then  echo "bad luck"
       elif  (($i == 7))
